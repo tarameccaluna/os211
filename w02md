@@ -1,0 +1,36 @@
+---
+layout: "layout"
+permalink: /W02/
+---
+
+# Top 10 List of Week 02
+
+1. [Protection & Security in Operating System](https://youtu.be/DKb7KhfoZmU)<br>
+In this video Privacy & Security topic of operating system is explained with examples. This video in particular is a a perfectly summed up teaching.
+
+2. [Access matrix in Operating System](https://www.geeksforgeeks.org/access-matrix-in-operating-system/)<br>
+An article discussing the defintion of Access Matrix in theory. 
+
+3. [Access Control List (ACL) – What are They and How to Configure Them!](https://www.ittsystems.com/access-control-list-acl/)<br>
+This article goes deep into the functionality of ACLs by first explaining the definition of ACL, importance, place, components, types, and finally how to implement ACL on a Router.
+
+4. [What is the Security Problem?](https://padakuu.com/article/149-what-is-the-security-problem)<br>
+This article discusses the importance ensuring the security of a computer system and the mechanisms that the operating system can provide. 
+
+5. [C Standard Library Functions](https://www.programiz.com/c-programming/library-function)<br>
+This tutorial teaches me about the standard library functions in C. More specifically, what are they, different library functions in C and how to use them in my program.
+
+6. [Trojan AllAple dan 10 Serangan Siber Dahsyat ke RI, Waspada!](https://www.cnbcindonesia.com/tech/20210306144357-37-228309/trojan-allaple-dan-10-serangan-siber-dahsyat-ke-ri-waspada)<br>
+This article discusses about the different types of Trojan threats that Indonesians might have experienced, based on a report produced by Badan Siber dan Sandi Negara (BSSN).
+
+7. [What Is Port Scanning and How Does It Work?](https://www.makeuseof.com/what-is-port-scanning/)<br>
+This article explores what port scanning is and how it affects us. Prior to this, I did not know the consequences of leaving my port open.
+
+8. [DoS vulnerability found in Eclipse Jetty](https://www.scmagazine.com/home/security-news/dos-vulnerability-found-in-eclipse-jetty/)<br>
+I have used Jetty and know a lot of people who do, so no wonder that this vulnerability is called a “close to a digital nightmare”.
+
+9. [Overview of Cryptography Techniques](https://www.educba.com/cryptography-techniques/)<br>
+This article has seen what Cryptography and various Cryptography techniques to encrypt and decrypt the data are. Nowadays, various new Cryptographic techniques are developed and cracked; hence, it is important always to be aware of computer threats and take precautions to avoid them as best as we can. 
+
+10. [5 Authentication Methods that Can Prevent the Next Breach](https://www.idrnd.ai/5-authentication-methods-that-can-prevent-the-next-breach/)<br>
+This article reviews some common authentication methods used to secure modern systems.
