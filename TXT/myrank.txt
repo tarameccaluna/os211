@@ -2,3 +2,6 @@
 ZCZC W01 tsanaativa
 ZCZC W01 X1non
 ZCZC W01 Trigonometr1
+ZCZC W02 stevensim226
+ZCZC W02 Trigonometr1
+ZCZC W02 sunnysani
