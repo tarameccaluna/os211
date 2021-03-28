@@ -5,3 +5,6 @@ ZCZC W01 Trigonometr1
 ZCZC W02 stevensim226
 ZCZC W02 Trigonometr1
 ZCZC W02 sunnysani
+ZCZC W03 stevensim226
+ZCZC W03 X1non
+ZCZC W03 sunnysani
