@@ -25,3 +25,15 @@ ZCZC W03 30 L03 Write Top 10
 ZCZC W03 15 L16 Update myrank
 ZCZC W03 10 L12 Skimmed through OSC10
 ZCZC W03 10 L20 Updated mylog.txt and made SHA256SUM
+ZCZC W04 90 L01 SCELE related
+ZCZC W04 30 L03 GitHub related
+ZCZC W04 90 L05 GSGS related
+ZCZC W04 40 L06 Reading Refences/Books/Documents
+ZCZC W04 240 L10 Assignment (General)
+ZCZC W04 90 L01 SCELE related
+ZCZC W04 120 L06 Reading OS Slides
+ZCZC W04 120 L05 GSGS related for top 10 List of Week 04
+ZCZC W04 180 L03 Write Top 10
+ZCZC W04 40 L20 Updated mylog.txt and made SHA256SUM
+ZCZC W04 300 L22 YouTube: study, listening music
+ZCZC W04 200 L26 Movie Time and relax
