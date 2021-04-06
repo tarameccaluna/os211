@@ -37,3 +37,13 @@ ZCZC W04 180 L03 Write Top 10
 ZCZC W04 40 L20 Updated mylog.txt and made SHA256SUM
 ZCZC W04 300 L22 YouTube: study, listening music
 ZCZC W04 200 L26 Movie Time and relax
+ZCZC W05 10 L03 Github related
+ZCZC W05 100 L02 Zoom related
+ZCZC W05 10 L03 GitHub related
+ZCZC W05 30 L00 SCELE related
+ZCZC W05 15 L03 GitHub related
+ZCZC W05 10 L23 Discord: reading discussion
+ZCZC W05 30 L08 Trying something
+ZCZC W05 15 L22 YouTube: study
+ZCZC W05 45 L05 GSGS related
+ZCZC W05 60 L10 Assignment (General)
