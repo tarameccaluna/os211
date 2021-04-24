@@ -47,3 +47,17 @@ ZCZC W05 30 L08 Trying something
 ZCZC W05 15 L22 YouTube: study
 ZCZC W05 45 L05 GSGS related
 ZCZC W05 60 L10 Assignment (General)
+ZCZC W06 30 L01 SCELE related
+ZCZC W06 30 L06 Reading Slide
+ZCZC W06 55 L05 GSGS related
+ZCZC W06 50 L26 Movie: relax, etc.
+ZCZC W06 35 L21 study, etc.
+ZCZC W06 20 L11 Assignment #1
+ZCZC W06 11 L12 Assignment #2
+ZCZC W06 10 L13 Assignment #3
+ZCZC W06 15 L14 Assignment #4
+ZCZC W06 15 L15 Assignment #5
+ZCZC W06 10 L16 Assignment #6
+ZCZC W06 10 L17 Assignment #7
+ZCZC W06 17 L18 Assignment #8
+ZCZC W06 16 L19 Assignment #9
