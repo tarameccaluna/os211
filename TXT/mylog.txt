@@ -61,3 +61,10 @@ ZCZC W06 10 L16 Assignment #6
 ZCZC W06 10 L17 Assignment #7
 ZCZC W06 17 L18 Assignment #8
 ZCZC W06 16 L19 Assignment #9
+ZCZC W07  40 L01 Scele Related
+ZCZC W07 100 L02 Zoom Related
+ZCZC W07  30 L05 GSGS Related
+ZCZC W07  30 L11 Assignment#1
+ZCZC W07  30 L12 Visit Neighbors
+ZCZC W07 120 L13 GSGS and Update Top 10 List
+ZCZC W07   5 L15 Update log
