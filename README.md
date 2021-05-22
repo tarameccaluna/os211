@@ -12,4 +12,5 @@ Operating Systems 2021-1
 [W06](https://github.com/tarameccaluna/os211/blob/master/w06.md) |
 [W07](https://github.com/tarameccaluna/os211/blob/master/w07.md) |
 [W08](https://github.com/tarameccaluna/os211/blob/master/w08.md) |
+[W09](https://github.com/tarameccaluna/os211/blob/master/w09.md) |
 [My Top 10 Ranks](https://tarameccaluna.github.io/os211/TXT/myrank.txt)
